@@ -16,7 +16,7 @@ author_profile: true
   <br>
 </p>
 <h3>Journal Publications</h3>
-<h4>2024</h4>
+<p>2024</p>
 <p>Zhao Y., Wang Z., Yan Z., Moon M., Yang D., Meng L., Bucher S.F., Wang J., Song G., Guo Z. Su Y., Wu J., 2024. Exploring the role of biotic factors in regulating the spatial variability in land surface phenology across four temperate forest sites. <strong><em>New Phytologist</em></strong>, 242, 1965-1980, doi: <a href="https://doi.org/10.1111/nph.19684">https://doi.org/10.1111/nph.19684</a></p>
 
 <p>Liu X., Feng Y., Hu T., Luo Y., Zhao X., Wu J., Maeda E.E., Ju W., Liu L., Guo Q., Su Y.*, 2024. Enhancing ecosystem productivity and stability with increasing canopy structural complexity in global forests. <strong><em>Science Advances</em></strong>, 10, eadl1947, doi: <a href="https://doi.org/10.1126/sciadv.adl1947">https://doi.org/10.1126/sciadv.adl1947</a></p>
@@ -33,7 +33,7 @@ author_profile: true
 
 <p>Zhang R., Jin S., Zhang Y., Zang J., Wang Y., Li Q., Sun Z., Wang X., Zhou Q., Cai J., Xu S., Su Y., Wu J., Jiang D., 2024. PhenoNet: A two-stage lightweight deep learning framework for real-time wheat phenophase classification. <strong><em>ISPRS Journal of Photogrammetry and Remote Sensing</em></strong>, 208, 136-157, doi: <a href="https://doi.org/10.1016/j.isprsjprs.2024.01.006">https://doi.org/10.1016/j.isprsjprs.2024.01.006</a></p>
 
-<h4>2023</h4>
+<p>2023</p>
 <p>Yang Z., Su Y., Li W., Cheng K., Guan H., Ren Y., Hu T., Xu G., Guo, Q., 2023. Segmenting individual trees from terrestrial LiDAR data using tree branch directivity. <strong><em>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</em></strong>, 17, 956-969, doi: <a href="http://dx.doi.org/10.1109/JSTARS.2023.3334014">http://dx.doi.org/10.1109/JSTARS.2023.3334014</a></p>
 
 <p>Ma Q., Su Y.*, Niu C., Ma Q., Hu T., Luo X., Tai X., Qiu T., Zhang Y., Bales R.C., Liu L., Kelly M., Guo Q., 2023. Tree mortality during long-term droughts is lower in structurally complex forest stands. <strong><em>Nature Communications</em></strong>, 14, 7467, doi: <a href="https://doi.org/10.1038/s41467-023-43083-8">https://doi.org/10.1038/s41467-023-43083-8</a></p>
@@ -54,7 +54,7 @@ author_profile: true
 
 <p>Tao S., Ao Z., Wigneron J.P., Saatchi S., Ciais P., Chave J., Le Toan T., Frison P.L., Hu X., Chen C., Fan L., Wang M., Zhu J., Zhao X., Li X., Liu X., Su Y., Hu T., Guo Q., Wang Z., Tang Z., Liu Y.Y., Fang J., 2023. C-band Scatterometer (CScat): the first global long-term satellite radar backscatter data set with a C-band signal dynamic. <strong><em>Earth System Science Data Discussions</em></strong>, 2022, 15, 1577-1596, doi: <a href="https://doi.org/10.5194/essd-2022-264">https://doi.org/10.5194/essd-2022-264</a></p>
 
-<h4>2022</h4>
+<p>2022</p>
 <p>Liu L., Sayer E.J., Deng M., Li P., Liu W., Wang X., Yang S., Huang J., Luo J., Su Y., Grünzweig, J.M., 2022. The grassland carbon cycle: mechanisms, responses to global changes, and potential contribution to carbon neutrality. <strong><em>Fundamental Research</em></strong>, 3, 209-218, doi: <a href="https://doi.org/10.1016/j.fmre.2022.09.028">https://doi.org/10.1016/j.fmre.2022.09.028</a></p>
 
 <p>Liu X., Ma Q., Wu X., Hu T., Dai G., Wu J., Tao S., Wang S., Liu L., Guo Q., Su, Y.*, 2022. Nonscalability of Fractal Dimension to Quantify Canopy Structural Complexity from Individual Trees to Forest Stands. <strong><em>Journal of Remote Sensing</em></strong>, 2022, 0001, doi: <a href="https://doi.org/10.34133/remotesensing.0001">https://doi.org/10.34133/remotesensing.0001</a>.</p>
@@ -81,7 +81,7 @@ author_profile: true
 
 <p>Yi X., Wang N., Ren H., Yu J., Hu T., Su Y., Mi X., Guo Q., Ma K., 2022. From canopy complementarity to asymmetric competition: The negative relationship between structural diversity and productivity during succession. <strong><em>Journal of Ecology</em></strong>, 110, 457-465, doi:<a href="https://doi.org/10.1111/1365-2745.13813">https://doi.org/10.1111/1365-2745.13813</a></p>
 
-<h4>2021</h4>
+<p>2021</p>
 <p>Yan Z., Guo Z., Serbin S.P., Song G., Zhao Y., Chen Y., Wu S., Wang J., Wang X., Li J., Wang B., Wu Y., Su Y., Wang H., Rogers A., Liu L., Wu J., 2021. Spectroscopy outperforms leaf trait relationships for predicting photosynthetic capacity across different forest types. <strong><em>New Phytologist</em></strong>, 232, 134-147, doi: <a href="https://doi.org/10.1111/nph.17579">https://doi.org/10.1111/nph.17579</a></p>
 
 <p>Jin S., Su Y., Zhang Y., Song S., Li Q., Liu Z., Ma Q., Ge Y., Liu L., Ding Y., Baret F., 2021. Exploring Seasonal and Circadian Rhythms in Structural Traits of Field Maize from LiDAR Time Series. <strong><em>Plant Phenomics</em></strong>, 9895241, doi: <a href="https://doi.org/10.34133/2021/9895241">https://doi.org/10.34133/2021/9895241</a>.</p>
@@ -96,7 +96,7 @@ author_profile: true
 
 <p>Hu T., Sun X., Su Y., Guan H., Sun Q., Sun Kelly M., Guo Q., 2021. Development and performance evaluation of a very low-cost UAV-lidar system for forestry applications. <strong><em>Remote Sensing</em></strong>, 13, 77, doi: <a href="https://doi.org/10.3390/rs13010077">https://doi.org/10.3390/rs13010077</a>.</p>
 
-<h4>2020</h4>
+<p>2020</p>
 <p>Guo Q.#, Su Y.#, Hu T., Guan H., Jin S., Zhang J., Zhao X., Xu K., Wei D., Kelly M., Coops N.C., 2020. Lidar boosts three-dimensional ecological observations and modelling: A review and perspective. <strong><em>IEEE Geosceicne and Remote Sensing Magazine</em></strong>, 9, 232-257, doi: <a href="https://doi.org/10.1109/MGRS.2020.3032713">https://doi.org/10.1109/MGRS.2020.3032713</a>.</p>
 
 <p>Jin S., Su Y., Zhao X., Hu T., Guo Q., 2020. Parameter-free point-based fully convolutional neural network for airborne Lidar ground point filtering in forested environments. <strong><em>IEEE Selected Topics in Applied Earth Observations and Remote Sensing</em></strong>, 13, 3958 – 3974, doi: <a href="https://doi.org/10.1109/JSTARS.2020.3008477">https://doi.org/10.1109/JSTARS.2020.3008477</a>.</p>
@@ -127,7 +127,7 @@ author_profile: true
 
 <p>Xu K., Su Y., Liu J., Hu T., Jin S., Ma Q., Zhai Q., Wang R., Zhang J., Li Y., Liu H., Guo Q., 2020. Estimation of degraded grassland aboveground biomass using machine learning methods from terrestrial laser scanning data. <strong><em>Ecological Indicators</em></strong>, 108, 105747, doi: <a href="https://doi.org/10.1016/j.ecolind.2019.105747">https://doi.org/10.1016/j.ecolind.2019.105747</a>.</p>
 
-<h4>2019</h4>
+<p>2019</p>
 <p>Guan H., Su Y., Hu T., Chen J., Guo Q., 2019. An object-based strategy for improving the accuracy of spatiotemporal satellite imagery fusion for vegetation mapping applications. <strong><em>Remote Sensing</em></strong>, 11, 2917, doi: <a href="https://doi.org/10.3390/rs11242927">https://doi.org/10.3390/rs11242927</a>.</p>
 
 <p>Yang Q., Su Y., Jin S., Kelly M., Ma Q., Hu T., Li Y., Zhang J., Xu G., Guo Q., 2019. The influences of vegetation characteristics on individual tree segmentation methods with airborne LiDAR data. <strong><em>Remote Sensing</em></strong>, 11, 2880, doi: <a href="https://doi.org/10.3390/rs11232880">https://doi.org/10.3390/rs11232880</a>.</p>
@@ -140,7 +140,7 @@ author_profile: true
 
 <p>Jin S., Su Y., Wu F., Pang S., Gao S., Hu T., Liu J., Guo Q., 2019. Stem–leaf segmentation and phenotypic trait extraction of individual maize using terrestrial lidar data. <strong><em>IEEE Transactions on Geoscience and Remote Sensing</em></strong>, 57, 1336-1346, doi: <a href="https://doi.org/10.1109/TGRS.2018.2866056">https://doi.org/10.1109/TGRS.2018.2866056</a>.</p>
 
-<h4>2018</h4>
+<p>2018</p>
 <p>Zhou Z., Liu R., Shi S., Su Y., Li W., Guo Q., 2018. Ecological niche modeling with LiDAR data: A case study of modeling the distribution of fisher in the southern Sierra Nevada Mountains, California. <strong><em>Biodiversity Science</em></strong>, 26, 878-891, (In Chinese), doi: <a href="https://doi.org/10.17520/biods.2018051">https://doi.org/10.17520/biods.2018051</a>.</p>
 
 <p>Guo Q., Hu T., Jiang Y., Jin S., Wang R., Guan H., Yang Q., Li Y., Wu F., Zhai Q., Liu J., Su Y., 2018. Advances in remote sensing application for biodiversity research. <strong><em>Biodiversity Science</em></strong>, 26, 789-806, (In Chinese), doi: <a href="https://doi.org/10.17520/biods.2018054">https://doi.org/10.17520/biods.2018054</a>.</p>
@@ -167,7 +167,7 @@ author_profile: true
 
 <p>Wang D., Wan B., Qiu P., Su Y., Guo Q., Wu X., 2018. Artificial mangrove species mapping using Pléiades-1: an evaluation of pixel-based and object-based classifications with selected machine learning algorithms. <strong><em>Remote Sensing</em></strong>, 10, p.294, doi: <a href="https://doi.org/10.3390/rs10020294">https://doi.org/10.3390/rs10020294</a>.</p>
 
-<h4>2017</h4>
+<p>2017</p>
 <p>Kelly M., Su Y., Di Tommaso S., Fry D.L., Collins B.M., Stephens,S.L., Guo Q., 2017. 1. <strong><em>Remote Sensing</em></strong>, 10, p.10, doi: <a href="https://doi.org/10.3390/rs10010010">https://doi.org/10.3390/rs10010010</a>.</p>
 
 <p>Su Y., Bales R.C., Ma Q., Nydick K., Ray R.L., Li W., Guo Q., 2017. Emerging stress and relative resiliency of giant sequoia groves experiencing multiyear dry periods in a warming climate. <strong><em>Journal of Geophysical Research: Biogeosciences</em></strong>, 122, 3063-3075, doi: <a href="https://doi.org/10.1002/2017JG004005">https://doi.org/10.1002/2017JG004005</a>.</p>
@@ -188,7 +188,7 @@ author_profile: true
 
 <p>Su Y., Ma Q., Guo Q., 2017. Fine-resolution forest tree height estimation across the Sierra Nevada through the integration of spaceborne LiDAR, airborne LiDAR and optical imagery. <strong><em>International Journal of Digital Earth</em></strong>, 10, 307-323, doi: <a href="https://doi.org/10.1080/17538947.2016.1227380">https://doi.org/10.1080/17538947.2016.1227380</a>.</p>
 
-<h4>2016</h4>
+<p>2016</p>
 <p>Li Y., Guo Q., Tao S., Zheng G., Zhao K., Su Y., 2016. Derivation, validation, and sensitivity analysis of terrestrial laser scanning-based leaf area index. <strong><em>Canadian Journal of Remote Sensing</em></strong>, 42, 719-729, doi: <a href="https://doi.org/10.1080/07038992.2016.1220829">https://doi.org/10.1080/07038992.2016.1220829</a>.</p>
 
 <p>Hu T.#, Su Y.#, Xue B., Liu J., Zhao X., Fang J., Guo Q., 2016. Mapping global forest aboveground biomass with spaceborne LiDAR, optical imagery, and forest inventory data. <strong><em>Remote Sensing</em></strong>, 8, 565, doi: <a href="https://doi.org/10.3390/rs8070565">https://doi.org/10.3390/rs8070565</a>.</p>
@@ -201,7 +201,7 @@ author_profile: true
 
 <p>Su Y., Guo Q., Fry D., Collins B., Kelly M., Flanagan J., Battles J., 2016. A vegetation mapping strategy for conifer forests by combining airborne LiDAR data and aerial imagery. <strong><em>Canadian Journal of Remote Sensing</em></strong>, 42, 1-15, doi: <a href="https://doi.org/10.1080/07038992.2016.1131114">https://doi.org/10.1080/07038992.2016.1131114</a>.</p>
 
-<h4>2015 and earlier</h4>
+<p>2015 and earlier</p>
 <p>Su Y., Guo Q., Ma Q., Li W., 2015. SRTM DEM correction in vegetated mountain areas through the integration of spaceborne LiDAR, airborne LiDAR, and optical imagery. <strong><em>Remote Sensing</em></strong>, 7, 11202-11225, doi: <a href="https://doi.org/10.3390/rs70911202">https://doi.org/10.3390/rs70911202</a>.</p>
 
 <p>Tempel D.J., Gutiérrez R.J., Battles J.J., Fry D.L., Su Y., Guo Q., Reetz M.J., Whitmore S.A., Jones G.M., Collins B.M., Stephens L.L., Kelly M., Berigan W.J., Peery M.Z., 2015. Evaluating short- and long-term impacts of fuels treatments and wildfire on an old-forest species. <strong><em>Ecosphere</em></strong>, 12, art261, doi: <a href="https://doi.org/10.1890/ES15-00234.1">https://doi.org/10.1890/ES15-00234.1</a>.</p>
