@@ -5,8 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 
+<p>
+  <br>
+</p>
 <h3>Books</h3>
 <p>Guo Q., Su Y., Hu T., 2023. LiDAR Principles, Processing and Applications in Forest Ecology. Academic Press.</p>
 
