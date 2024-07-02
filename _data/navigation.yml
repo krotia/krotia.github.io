@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Lab Menbers"
-    url: /menbers/
+  - title: "Lab Members"
+    url: /members/
     
   - title: "Publications"
     url: /publications/
