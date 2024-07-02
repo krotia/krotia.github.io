@@ -14,7 +14,7 @@ The digital ecosystem lab at the Institute of Botany, Chinese Academy of Science
 **How can we achieve efficient and accurate monitoring of multiscale forest canopy structures?**
 ======
 To accomplish this, we have developed a series of near-surface lidar platforms, such as backpack and drone systems, and proposed algorithms for processing near-surface lidar data, ranging from automatic data fusion to branch architecture trait extraction. Additionally, we have introduced a neural network-guided interpolation algorithm to upscale forest canopy structure data to national and global scales by integrating spaceborne and near-surface lidar data.
-
+![test](image-alignment-1200x4002.jpg "Magic Gardens")
 
 
 **How does forest canopy structure influence forest ecosystem processes and functions?**
