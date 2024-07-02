@@ -40,7 +40,7 @@ author_profile: true
 
 <p>Liu Z., Jin S.*, Liu X., Yang Q., Li Q., Zang J., Li Z., Hu T., Guo Z., Wu J., Jiang D., Su Y.*, 2023. Extraction of wheat spike phenotypes from field-collected lidar data and exploration of their relationships with wheat yield. <strong><em>IEEE Transactions on Geoscience and Remote Sensing</em></strong>, 61, 1-13, doi: <a href="https://doi.org/10.1016/j.rse.2023.113612">https://doi.org/10.1016/j.rse.2023.113612</a></p>
 
-<p>Liu S., Yan Z., Wang Z., Serbin S., Visser M., Zeng Y., Ryu Y., Su Y., Guo Z., Song G., Wu Q., Zhang H., Cheng K.H., Dong J., Hau B.C.H, Zhao P., Yang X., Liu L., Rogers A., Wu J., 2023. Mapping foliar photosynthetic capacity in sub-tropical and tropical forests with UAS-based imaging spectroscopy: Scaling from leaf to canopy. <strong><em>Remote Sensing of Environment</em></strong>, 293, 113612.</p>
+<p>Liu S., Yan Z., Wang Z., Serbin S., Visser M., Zeng Y., Ryu Y., Su Y., Guo Z., Song G., Wu Q., Zhang H., Cheng K.H., Dong J., Hau B.C.H, Zhao P., Yang X., Liu L., Rogers A., Wu J., 2023. Mapping foliar photosynthetic capacity in sub-tropical and tropical forests with UAS-based imaging spectroscopy: Scaling from leaf to canopy. <strong><em>Remote Sensing of Environment</em></strong>, 293, 113612, doi: <a href="https://doi.org/10.1016/j.rse.2023.113612">https://doi.org/10.1016/j.rse.2023.113612</a></p>
 
 <p>Peng Z., Wu Y., Guo L., Yang L., Wang B., Wang X., Liu W., Su Y., Wu J., Liu L., 2023. Foliar nutrient resorption stoichiometry and microbial phosphatase catalytic efficiency together alleviate the relative phosphorus limitation in forest ecosystems. <strong><em>New Phytologist</em></strong>, 238, 1033-1044, doi: <a href="https://doi.org/10.1111/nph.18797">https://doi.org/10.1111/nph.18797</a></p>
 
