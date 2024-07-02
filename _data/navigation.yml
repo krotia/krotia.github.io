@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Lab Members"
-    uri: /members/
+    url: /members/
 
   - title: "Publications"
     url: /publications/
