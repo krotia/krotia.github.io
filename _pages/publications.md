@@ -107,11 +107,11 @@ author_profile: true
 
 <p>Yu Y., Zhu J., Gao T., Guo Q., Su Y., Li Y., Deng S., Li M., 2020. Terrestrial laser scanning-derived canopy interception index as a descriptor of canopy water storage capacity. <strong><em>Hydrological Processes</em></strong>, 13, e2212.</p>
 
-<p>Guo Q., Hu T., Ma Q., Xu K., Yang Q., Sun Q., Li Y., Su Y., 2020. The advances for the new remote sensing technology in ecosystem ecology research. <strong><em>Chinese Journal of Plant Ecology</em></strong>, 44. (In Chinese)</p>
+<p>Guo Q., Hu T., Ma Q., Xu K., Yang Q., Sun Q., Li Y., Su Y., 2020. The advances for the new remote sensing technology in ecosystem ecology research. <strong><em>Chinese Journal of Plant Ecology</em></strong>, 44, (In Chinese), doi: <a href="https://dx.doi.org/10.17521/cjpe.2019.0206">https://dx.doi.org/10.17521/cjpe.2019.0206</a>.</p>
 
-<p>Guo Q., Jin S., Li M., Yang Q., Xu K., Ju Y., Zhang J., Xuan J., Liu J., Su Y., Xu Q., Liu Y., 2020. Application of deep learning in ecological resource research: theories, methods, and challenges. <strong><em>Science China Earth Sciences</em></strong>, 63, 1457-1474.</p>
+<p>Guo Q., Jin S., Li M., Yang Q., Xu K., Ju Y., Zhang J., Xuan J., Liu J., Su Y., Xu Q., Liu Y., 2020. Application of deep learning in ecological resource research: theories, methods, and challenges. <strong><em>Science China Earth Sciences</em></strong>, 63, 1457-1474, doi: <a herf="https://doi.org/10.1007/s11430-019-9584-9">https://doi.org/10.1007/s11430-019-9584-9</a>.</p>
 
-<p>Su Y., Guo Q., Hu T., Guan H., Jin S., An S., Chen X., Guo K., Hao Z., Hu Y., Huang Y., Jiang M., Li Z., Li X., Liang C., Liu R., Liu Q., Ni H., Peng S., Shen Z., Tang Z., Tian X., Wang X., Wang R., Xie Z., Xie Y., Xu X., Yang X., Yang Y., Yu L., Yue M., Zhang F., Ma K., 2020. An Updated Vegetation Map of China (1: 1000000). <strong><em>Science Bulletin</em></strong>, 65, 1125-1136.</p>
+<p>Su Y., Guo Q., Hu T., Guan H., Jin S., An S., Chen X., Guo K., Hao Z., Hu Y., Huang Y., Jiang M., Li Z., Li X., Liang C., Liu R., Liu Q., Ni H., Peng S., Shen Z., Tang Z., Tian X., Wang X., Wang R., Xie Z., Xie Y., Xu X., Yang X., Yang Y., Yu L., Yue M., Zhang F., Ma K., 2020. An Updated Vegetation Map of China (1: 1000000). <strong><em>Science Bulletin</em></strong>, 65, 1125-1136, doi: <a herf="https://doi.org/10.1029/2019JG005306">https://doi.org/10.1029/2019JG005306</a>.</p>
 
 <p>Su Y., Hu T., Wang Y., Li Y., Dai J., Liu H., Jin S., Ma Q., Wu J., Liu L., Fang J., Guo Q., 2020. Large-scale geographical variations and climatic controls on crown architecture traits. <strong><em>Journal of Geophysical Research: Biogeosciences</em></strong>, 125, e2019JG005306, doi: <a href="https://doi.org/10.1029/2019JG005306">https://doi.org/10.1029/2019JG005306</a>.</p>
 
