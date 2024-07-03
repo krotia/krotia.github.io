@@ -21,6 +21,126 @@ author_profile: true
   <hr>
 </div>
 
+<div style="display: flex; align-items: center;">
+  <div>
+    <img src="/images/Yue Luo.png" alt="Yue Luo" style="border-radius: 50%; width: 180px; height: 150px;">
+  </div>
+  <div style="margin-left: 20px;">
+    <h2>Yue Luo</h2>
+    <p>M.D Student<br>Email: <a href="mailto:luoyue@ibcas.ac.cn">luoyue@ibcas.ac.cn</a></p>
+    <p><strong>Research interests:</strong> During his master's program, his primary research focus is large-scale, high-resolution data products.</p>
+  </div><br>
+  <hr>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div>
+    <img src="/images/Yue Luo.png" alt="Yue Luo" style="border-radius: 50%; width: 180px; height: 150px;">
+  </div>
+  <div style="margin-left: 20px;">
+    <h2>Yue Luo</h2>
+    <p>M.D Student<br>Email: <a href="mailto:luoyue@ibcas.ac.cn">luoyue@ibcas.ac.cn</a></p>
+    <p><strong>Research interests:</strong> During his master's program, his primary research focus is large-scale, high-resolution data products.</p>
+  </div><br>
+  <hr>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div>
+    <img src="/images/Yue Luo.png" alt="Yue Luo" style="border-radius: 50%; width: 180px; height: 150px;">
+  </div>
+  <div style="margin-left: 20px;">
+    <h2>Yue Luo</h2>
+    <p>M.D Student<br>Email: <a href="mailto:luoyue@ibcas.ac.cn">luoyue@ibcas.ac.cn</a></p>
+    <p><strong>Research interests:</strong> During his master's program, his primary research focus is large-scale, high-resolution data products.</p>
+  </div><br>
+  <hr>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div>
+    <img src="/images/Yue Luo.png" alt="Yue Luo" style="border-radius: 50%; width: 180px; height: 150px;">
+  </div>
+  <div style="margin-left: 20px;">
+    <h2>Yue Luo</h2>
+    <p>M.D Student<br>Email: <a href="mailto:luoyue@ibcas.ac.cn">luoyue@ibcas.ac.cn</a></p>
+    <p><strong>Research interests:</strong> During his master's program, his primary research focus is large-scale, high-resolution data products.</p>
+  </div><br>
+  <hr>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div>
+    <img src="/images/Yue Luo.png" alt="Yue Luo" style="border-radius: 50%; width: 180px; height: 150px;">
+  </div>
+  <div style="margin-left: 20px;">
+    <h2>Yue Luo</h2>
+    <p>M.D Student<br>Email: <a href="mailto:luoyue@ibcas.ac.cn">luoyue@ibcas.ac.cn</a></p>
+    <p><strong>Research interests:</strong> During his master's program, his primary research focus is large-scale, high-resolution data products.</p>
+  </div><br>
+  <hr>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div>
+    <img src="/images/Yue Luo.png" alt="Yue Luo" style="border-radius: 50%; width: 180px; height: 150px;">
+  </div>
+  <div style="margin-left: 20px;">
+    <h2>Yue Luo</h2>
+    <p>M.D Student<br>Email: <a href="mailto:luoyue@ibcas.ac.cn">luoyue@ibcas.ac.cn</a></p>
+    <p><strong>Research interests:</strong> During his master's program, his primary research focus is large-scale, high-resolution data products.</p>
+  </div><br>
+  <hr>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div>
+    <img src="/images/Yue Luo.png" alt="Yue Luo" style="border-radius: 50%; width: 180px; height: 150px;">
+  </div>
+  <div style="margin-left: 20px;">
+    <h2>Yue Luo</h2>
+    <p>M.D Student<br>Email: <a href="mailto:luoyue@ibcas.ac.cn">luoyue@ibcas.ac.cn</a></p>
+    <p><strong>Research interests:</strong> During his master's program, his primary research focus is large-scale, high-resolution data products.</p>
+  </div><br>
+  <hr>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div>
+    <img src="/images/Yue Luo.png" alt="Yue Luo" style="border-radius: 50%; width: 180px; height: 150px;">
+  </div>
+  <div style="margin-left: 20px;">
+    <h2>Yue Luo</h2>
+    <p>M.D Student<br>Email: <a href="mailto:luoyue@ibcas.ac.cn">luoyue@ibcas.ac.cn</a></p>
+    <p><strong>Research interests:</strong> During his master's program, his primary research focus is large-scale, high-resolution data products.</p>
+  </div><br>
+  <hr>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div>
+    <img src="/images/Yue Luo.png" alt="Yue Luo" style="border-radius: 50%; width: 180px; height: 150px;">
+  </div>
+  <div style="margin-left: 20px;">
+    <h2>Yue Luo</h2>
+    <p>M.D Student<br>Email: <a href="mailto:luoyue@ibcas.ac.cn">luoyue@ibcas.ac.cn</a></p>
+    <p><strong>Research interests:</strong> During his master's program, his primary research focus is large-scale, high-resolution data products.</p>
+  </div><br>
+  <hr>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div>
+    <img src="/images/Yue Luo.png" alt="Yue Luo" style="border-radius: 50%; width: 180px; height: 150px;">
+  </div>
+  <div style="margin-left: 20px;">
+    <h2>Yue Luo</h2>
+    <p>M.D Student<br>Email: <a href="mailto:luoyue@ibcas.ac.cn">luoyue@ibcas.ac.cn</a></p>
+    <p><strong>Research interests:</strong> During his master's program, his primary research focus is large-scale, high-resolution data products.</p>
+  </div><br>
+  <hr>
+</div>
+
 <h2>Alumni</h2>
 <p>Mr. Xiaotian Qi&emsp;&emsp;&emsp;&emsp;&thinsp;Huawei Technologies Co., Ltd<br>
 Dr. Xiaoxia Zhao&emsp;&emsp;&emsp;&ensp;Inner Mongolia Academy of Science and Technology<br>
