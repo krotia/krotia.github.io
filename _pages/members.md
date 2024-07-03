@@ -154,7 +154,7 @@ author_profile: true
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Jiabo Yan.jpg" alt="Jiabo Yan" style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Jiabo Yan.png" alt="Jiabo Yan" style="border-radius: 50%; width: 180px; height: 150px;">
   </div>
   <div style="margin-left: 20px;">
     <h2>Jiabo Yan</h2>
