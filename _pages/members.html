@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for item in site.members reversed %}
-  {% include archive-members.html content=item.content %}
+{% for post in site.members reversed %}
+  {% include archive-members.html %}
 {% endfor %}
 
