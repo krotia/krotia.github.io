@@ -11,8 +11,7 @@ author_profile: true
   </div>
   <div style="margin-left: 20px;">
     <h2>Yue Luo</h2>
-    <p>M.D Student</p>
-    <p>Email: <a href="mailto:luoyue@ibcas.ac.cn">luoyue@ibcas.ac.cn</a></p>
+    <p>M.D Student<br>Email: <a href="mailto:luoyue@ibcas.ac.cn">luoyue@ibcas.ac.cn</a></p>
     <p><strong>Research interests:</strong> During his master's program, his primary research focus is large-scale, high-resolution data products.</p>
   </div>
 </div>
