@@ -2,7 +2,7 @@
 layout: archive
 title: "Lab Members"
 permalink: /members/
-author_profile: true
+author_profile: false
 ---
 <h2>Principal Investigator</h2>
 <div style="display: flex; align-items: center;">
