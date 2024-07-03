@@ -15,18 +15,19 @@ The digital ecosystem lab at the Institute of Botany, Chinese Academy of Science
 ======
 To accomplish this, we have developed a series of near-surface lidar platforms, such as backpack and drone systems, and proposed algorithms for processing near-surface lidar data, ranging from automatic data fusion to branch architecture trait extraction. Additionally, we have introduced a neural network-guided interpolation algorithm to upscale forest canopy structure data to national and global scales by integrating spaceborne and near-surface lidar data.
 
-<img src='/images/500x300.png' title="图片title">
+<img src='/images/Question1.png' title="Question1">
 
 
 **How does forest canopy structure influence forest ecosystem processes and functions?**
 ======
 To answer this, we mapped China’s forest canopy height and global forest canopy structural complexity, and revealed that forest canopy structural complexity shows significant positive relationships with global forest ecosystem productivity and stability. Additionally, forests with complex canopy structures exhibit lower tree mortality during droughts.
 
-
+<img src='/images/Question2.jpg' title="Question2">
 
 **How can we integrate the effects of forest canopy structure into Earth system models to improve prediction accuracy?**
 ======
 To address this, we found that canopy structure is a crucial factor in regulating the fall phenology of temperate forests by mediating microclimate conditions. Incorporating this pathway into existing fall phenology models significantly improves the prediction accuracy and reduces the projected delay in the start of fall. To further our research, we are currently developing new forest microclimate models and dynamic global vegetation models that incorporate the effects of canopy structure on forest ecosystem processes.
 
+<img src='/images/Question3.jpg' title="Question3">
 
 Beyond these questions, we are also dedicated to extending our developed technology to other terrestrial ecosystems, such as grasslands and agricultural lands.
