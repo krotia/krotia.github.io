@@ -21,7 +21,7 @@ author_profile: false
 <h2>Staffs</h2>
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Tianyu Hu.png" alt="Tianyu Hu" style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Tianyu Hu.png" alt="Tianyu Hu" style="width: 200px; height: 200px;">
   </div>
   <div style="margin-left: 20px;">
     <h2>Tianyu Hu</h2>
@@ -33,7 +33,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Xiaoyong Wu.png" alt="Xiaoyong Wu" style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Xiaoyong Wu.png" alt="Xiaoyong Wu" style="width: 200px; height: 200px;">
   </div>
   <div style="margin-left: 20px;">
     <h2>Xiaoyong Wu</h2>
@@ -45,7 +45,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Ru Xu.png" alt="Ru Xu" style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Ru Xu.png" alt="Ru Xu" style="width: 200px; height: 200px;">
   </div>
   <div style="margin-left: 20px;">
     <h2>Ru Xu</h2>
@@ -57,7 +57,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Xiaoqiang Liu.png" alt="Xiaoqiang Liu" style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Xiaoqiang Liu.png" alt="Xiaoqiang Liu" style="width: 200px; height: 200px;">
   </div>
   <div style="margin-left: 20px;">
     <h2>Xiaoqiang Liu</h2>
@@ -70,7 +70,7 @@ author_profile: false
 <h2>Students</h2>
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Xiaoyong Wu.png" alt="Xiaoyong Wu" style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Xiaoyong Wu.png" alt="Xiaoyong Wu" style="width: 200px; height: 200px;">
   </div>
   <div style="margin-left: 20px;">
     <h2>Xiaoyong Wu</h2>
@@ -82,7 +82,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Jiatong Wang.png" alt="Jiatong Wang" style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Jiatong Wang.png" alt="Jiatong Wang" style="width: 200px; height: 200px;">
   </div>
   <div style="margin-left: 20px;">
     <h2>Jiatong Wang</h2>
@@ -94,7 +94,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Yilin Long.png" alt="Yilin Long" style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Yilin Long.png" alt="Yilin Long" style="width: 200px; height: 200px;">
   </div>
   <div style="margin-left: 20px;">
     <h2>Yilin Long</h2>
@@ -106,7 +106,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Liwen Huang.png" alt="Liwen Huang" style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Liwen Huang.png" alt="Liwen Huang" style="width: 200px; height: 200px;">
   </div>
   <div style="margin-left: 20px;">
     <h2>Liwen Huang</h2>
@@ -118,7 +118,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Xu Yan.png" alt="Xu Yan" style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Xu Yan.png" alt="Xu Yan" style="width: 200px; height: 200px;">
   </div>
   <div style="margin-left: 20px;">
     <h2>Xu Yan</h2>
@@ -130,7 +130,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Yue Luo.png" alt="Yue Luo" style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Yue Luo.png" alt="Yue Luo" style="width: 200px; height: 200px;">
   </div>
   <div style="margin-left: 20px;">
     <h2>Yue Luo</h2>
@@ -142,7 +142,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Qi Dong.png" alt="Qi Dong " style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Qi Dong.png" alt="Qi Dong " style="width: 200px; height: 200px;">
   </div>
   <div style="margin-left: 20px;">
     <h2>Qi Dong </h2>
@@ -154,7 +154,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Jiabo Yan.png" alt="Jiabo Yan" style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Jiabo Yan.png" alt="Jiabo Yan" style="width: 200px; height: 200px;">
   </div>
   <div style="margin-left: 20px;">
     <h2>Jiabo Yan</h2>
@@ -166,7 +166,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Xuanhao Jiang.png" alt="Xuanhao Jiang" style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Xuanhao Jiang.png" alt="Xuanhao Jiang" style="width: 200px; height: 200px;">
   </div>
   <div style="margin-left: 20px;">
     <h2>Xuanhao Jiang</h2>
@@ -178,7 +178,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Haoen Xu.png" alt="Haoen Xu" style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Haoen Xu.png" alt="Haoen Xu" style="width: 200px; height: 200px;">
   </div>
   <div style="margin-left: 20px;">
     <h2>Haoen Xu</h2>
@@ -190,7 +190,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Zhichao Wei.png" alt="Zhichao Wei " style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Zhichao Wei.png" alt="Zhichao Wei " style="width: 200px; height: 200px;">
   </div>
   <div style="margin-left: 20px;">
     <h2>Zhichao Wei </h2>
