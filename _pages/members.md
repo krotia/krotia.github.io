@@ -142,7 +142,7 @@ author_profile: true
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Qi Dong .png" alt="Qi Dong " style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Qi Dong.png" alt="Qi Dong " style="border-radius: 50%; width: 180px; height: 150px;">
   </div>
   <div style="margin-left: 20px;">
     <h2>Qi Dong </h2>
@@ -190,7 +190,7 @@ author_profile: true
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Zhichao Wei .png" alt="Zhichao Wei " style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Zhichao Wei.png" alt="Zhichao Wei " style="border-radius: 50%; width: 180px; height: 150px;">
   </div>
   <div style="margin-left: 20px;">
     <h2>Zhichao Wei </h2>
