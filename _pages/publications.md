@@ -5,13 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-<p>
-  <br>
-</p>
 <h3>Books</h3>
 <p>Guo Q., Su Y., Hu T., 2023. LiDAR Principles, Processing and Applications in Forest Ecology. Academic Press.</p>
-<p><br></p>
+
 <h3>Journal Publications</h3>
 <p>2024</p>
 <p>Zhao Y., Wang Z., Yan Z., Moon M., Yang D., Meng L., Bucher S.F., Wang J., Song G., Guo Z. Su Y., Wu J., 2024. Exploring the role of biotic factors in regulating the spatial variability in land surface phenology across four temperate forest sites. <strong><em>New Phytologist</em></strong>, 242, 1965-1980, doi: <a href="https://doi.org/10.1111/nph.19684">https://doi.org/10.1111/nph.19684</a></p>
