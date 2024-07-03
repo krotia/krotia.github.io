@@ -5,8 +5,8 @@ permalink: /members/
 author_profile: true
 ---
 
-{% for post in site.members reversed %}
+{% for post in site.members %}
   <div class="members-item">
-    {% include archive-members.html content=post.content %}
+    {% include archive-members.html %}
   </div>
 {% endfor %}
