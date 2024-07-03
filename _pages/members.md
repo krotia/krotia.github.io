@@ -7,13 +7,10 @@ author_profile: true
 <h2>Principal Investigator</h2>
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/
-Yanjun Su.png" alt="
-Yanjun Su" style="border-radius: 50%; width: 250px; height: 220px;">
+    <img src="/images/Yanjun Su.png" alt="Yanjun Su" style="border-radius: 50%; width: 250px; height: 220px;">
   </div>
   <div style="margin-left: 20px;">
-    <h2>
-Yanjun Su</h2>
+    <h2>Yanjun Su</h2>
     <p>Professor, Institute of Botany, Chinese Academy of Sciences<br>Email: <a href="mailto:ysu@ibcas.ac.cn">ysu@ibcas.ac.cn</a></p>
     <p>Address: No. 20, Nanxin Village, Xiangshan, Haidian District, Beijing, CA: 100093</p>
     <p><strong>Research interests:</strong> His research interests lie in the use of lidar as well as other remote sensing techniques to quantify forest canopy structure, and investigate how anthropogenic activities and climatic changes influence the terrestrial ecosystem processes. He currently serves as an associate editor for Plant Phenomics and the Geoscience Data Journal, and he reviews for a number of journals, including Nature Cities, Remote Sensing of Environment, New Phytologist, Ecology, and the ISPRS Journal of Photogrammetry and Remote Sensing.</p>
@@ -48,13 +45,10 @@ Yanjun Su</h2>
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/
-Ru Xu.png" alt="
-Ru Xu" style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Ru Xu.png" alt="Ru Xu" style="border-radius: 50%; width: 180px; height: 150px;">
   </div>
   <div style="margin-left: 20px;">
-    <h2>
-Ru Xu</h2>
+    <h2>Ru Xu</h2>
     <p>Research Associate, Institute of Botany, Chinese Academy of Sciences<br>Email: <a href="mailto:xuru@ibcas.ac.cn">xuru@ibcas.ac.cn</a></p>
     <p><strong>Research interests:</strong> Her research interests encompass a wide range of areas, including remote sensing mapping of land cover changes, the role of forests in climate regulation, and the application of Earth system models.</p>
   </div><br>
@@ -63,13 +57,10 @@ Ru Xu</h2>
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/
-Xiaoqiang Liu.png" alt="
-Xiaoqiang Liu" style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Xiaoqiang Liu.png" alt="Xiaoqiang Liu" style="border-radius: 50%; width: 180px; height: 150px;">
   </div>
   <div style="margin-left: 20px;">
-    <h2>
-Xiaoqiang Liu</h2>
+    <h2>Xiaoqiang Liu</h2>
     <p>Postdoctoal, Institute of Botany, Chinese Academy of Sciences<br>Email: <a href="mailto:liuxiaoqiang@ibcas.ac.cn">liuxiaoqiang@ibcas.ac.cn</a></p>
     <p><strong>Research interests:</strong> His research interests include using light detection and ranging (lidar) and machine learning to quantify forest canopy structure, and investigating how climatic changes and anthropogenic activities influence forest ecosystem functions.</p>
   </div><br>
@@ -115,13 +106,10 @@ Xiaoqiang Liu</h2>
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/
-Liwen Huang.png" alt="
-Liwen Huang" style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Liwen Huang.png" alt="Liwen Huang" style="border-radius: 50%; width: 180px; height: 150px;">
   </div>
   <div style="margin-left: 20px;">
-    <h2>
-Liwen Huang</h2>
+    <h2>Liwen Huang</h2>
     <p>Ph.D Student<br>Email: <a href="mailto:huangliwen23@mails.ucas.ac.cn">huangliwen23@mails.ucas.ac.cn</a></p>
     <p><strong>Research interests:</strong> Her research interests lie in using remote sensing techniques to identify the forest dominant species and explore the forest edge effect.</p>
   </div><br>
@@ -130,13 +118,10 @@ Liwen Huang</h2>
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/
-Xu Yan.png" alt="
-Xu Yan" style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Xu Yan.png" alt="Xu Yan" style="border-radius: 50%; width: 180px; height: 150px;">
   </div>
   <div style="margin-left: 20px;">
-    <h2>
-Xu Yan</h2>
+    <h2>Xu Yan</h2>
     <p>Ph.D Student<br>Email: <a href="mailto:yanxu8121@163.com">yanxu8121@163.com</a></p>
     <p><strong>Research interests:</strong> His undergraduate research focused on global meta-analysis of nitrous oxide emission from soil of agroforestry system.</p>
   </div><br>
@@ -157,13 +142,10 @@ Xu Yan</h2>
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/
-Qi Dong .png" alt="
-Qi Dong " style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Qi Dong .png" alt="Qi Dong " style="border-radius: 50%; width: 180px; height: 150px;">
   </div>
   <div style="margin-left: 20px;">
-    <h2>
-Qi Dong </h2>
+    <h2>Qi Dong </h2>
     <p>M.D Student<br>Email: <a href="mailto:dongqi23@mails.ucas.ac.cn">dongqi23@mails.ucas.ac.cn</a></p>
     <p><strong>Research interests:</strong> His research interests lie in using Lidar data to understand relationship between tree health and environment.</p>
   </div><br>
@@ -172,13 +154,10 @@ Qi Dong </h2>
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/
-Jiabo Yan.jpg" alt="
-Jiabo Yan" style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Jiabo Yan.jpg" alt="Jiabo Yan" style="border-radius: 50%; width: 180px; height: 150px;">
   </div>
   <div style="margin-left: 20px;">
-    <h2>
-Jiabo Yan</h2>
+    <h2>Jiabo Yan</h2>
     <p>M.D Student<br>Email: <a href="mailto:yanjiabo23@mails.ucas.ac.cn">yanjiabo23@mails.ucas.ac.cn</a></p>
     <p><strong>Research interests:</strong> His research interests lie in developing algorithms for separation the single-tree wood and leaf from terrestrial Lidar point cloud.</p>
   </div><br>
@@ -187,13 +166,10 @@ Jiabo Yan</h2>
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/
-Xuanhao Jiang.png" alt="
-Xuanhao Jiang" style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Xuanhao Jiang.png" alt="Xuanhao Jiang" style="border-radius: 50%; width: 180px; height: 150px;">
   </div>
   <div style="margin-left: 20px;">
-    <h2>
-Xuanhao Jiang</h2>
+    <h2>Xuanhao Jiang</h2>
     <p>M.D Student<br>Email: <a href="jiangxuanhao@ibcas.ac.cn">jiangxuanhao@ibcas.ac.cn</a></p>
     <p><strong>Research interests:</strong> His undergraduate research focuses on the long-term estimation of grassland fractional vegetation cover in China through combination of massive drone images and satellite data.</p>
   </div><br>
@@ -214,13 +190,10 @@ Xuanhao Jiang</h2>
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/
-Zhichao Wei .png" alt="
-Zhichao Wei " style="border-radius: 50%; width: 180px; height: 150px;">
+    <img src="/images/Zhichao Wei .png" alt="Zhichao Wei " style="border-radius: 50%; width: 180px; height: 150px;">
   </div>
   <div style="margin-left: 20px;">
-    <h2>
-Zhichao Wei </h2>
+    <h2>Zhichao Wei </h2>
     <p>M.D Student<br>Email: <a href="mailto:weipepino@outlook.com">weipepino@outlook.com</a></p>
     <p><strong>Research interests:</strong> His research interests lie in the investigation of natural grassland plant diseases in several counties of Gansu Province, and the study of seed germination and seedling growth characteristics of common grasses on the Qinghai-Tibet Plateau.</p>
   </div><br>
