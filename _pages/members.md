@@ -21,7 +21,7 @@ author_profile: false
 <h2>Staffs</h2>
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Tianyu Hu.png" alt="Tianyu Hu" width=400px height=200px>
+    <img src="/images/Tianyu Hu.png" alt="Tianyu Hu" width: 400px; height: 200px>
   </div>
   <div style="margin-left: 20px;">
     <h2>Tianyu Hu</h2>
@@ -33,7 +33,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Xiaoyong Wu.png" alt="Xiaoyong Wu" width=400px height=200px>
+    <img src="/images/Xiaoyong Wu.png" alt="Xiaoyong Wu" height: 200px>
   </div>
   <div style="margin-left: 20px;">
     <h2>Xiaoyong Wu</h2>
@@ -130,7 +130,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Yue Luo.png" alt="Yue Luo" width=400px height=200px>
+    <img src="/images/Yue Luo.png" alt="Yue Luo" height: 200px>
   </div>
   <div style="margin-left: 20px;">
     <h2>Yue Luo</h2>
