@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Lab Members"
 permalink: /members/
 author_profile: false
@@ -7,7 +6,7 @@ author_profile: false
 <h2>Principal Investigator</h2>
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Yanjun Su.png" alt="Yanjun Su" max-width=100% height=auto>
+    <img src="/images/Yanjun Su.png" alt="Yanjun Su">
   </div>
   <div style="margin-left: 20px;">
     <h2>Yanjun Su</h2>
@@ -82,7 +81,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Jiatong Wang.png" alt="Jiatong Wang" max-width=100% height=auto>
+    <img src="/images/Jiatong Wang.png" alt="Jiatong Wang">
   </div>
   <div style="margin-left: 20px;">
     <h2>Jiatong Wang</h2>
@@ -106,7 +105,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Liwen Huang.png" alt="Liwen Huang" max-width=100% height=auto>
+    <img src="/images/Liwen Huang.png" alt="Liwen Huang">
   </div>
   <div style="margin-left: 20px;">
     <h2>Liwen Huang</h2>
