@@ -7,7 +7,7 @@ author_profile: false
 <h2>Principal Investigator</h2>
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Yanjun Su.png" alt="Yanjun Su">
+    <img src="/images/Yanjun Su.png" alt="Yanjun Su" max-width: 100%; height: auto;>
   </div>
   <div style="margin-left: 20px;">
     <h2>Yanjun Su</h2>
