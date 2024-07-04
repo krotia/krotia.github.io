@@ -130,7 +130,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Yue Luo.png" alt="Yue Luo" style="width: 200px; height: 200px;">
+    <img src="/images/Yue Luo.png" alt="Yue Luo" width=400px height=200px>
   </div>
   <div style="margin-left: 20px;">
     <h2>Yue Luo</h2>
