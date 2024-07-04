@@ -7,7 +7,7 @@ author_profile: false
 <h2>Principal Investigator</h2>
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Yanjun Su.png" alt="Yanjun Su" sizes="max-width: 400px">
+    <img src="/images/Yanjun Su.png" alt="Yanjun Su">
   </div>
   <div style="margin-left: 20px;">
     <h2>Yanjun Su</h2>
@@ -21,7 +21,7 @@ author_profile: false
 <h2>Staffs</h2>
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Tianyu Hu.png" alt="Tianyu Hu" width=400px; height=200px>
+    <img src="/images/Tianyu Hu.png" alt="Tianyu Hu">
   </div>
   <div style="margin-left: 20px;">
     <h2>Tianyu Hu</h2>
@@ -33,7 +33,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Xiaoyong Wu.png" alt="Xiaoyong Wu" height=200px>
+    <img src="/images/Xiaoyong Wu.png" alt="Xiaoyong Wu">
   </div>
   <div style="margin-left: 20px;">
     <h2>Xiaoyong Wu</h2>
@@ -45,7 +45,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Ru Xu.png" alt="Ru Xu" width=400px height=200px>
+    <img src="/images/Ru Xu.png" alt="Ru Xu">
   </div>
   <div style="margin-left: 20px;">
     <h2>Ru Xu</h2>
@@ -57,7 +57,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Xiaoqiang Liu.png" alt="Xiaoqiang Liu" style="width: 200px; height: 200px;">
+    <img src="/images/Xiaoqiang Liu.png" alt="Xiaoqiang Liu">
   </div>
   <div style="margin-left: 20px;">
     <h2>Xiaoqiang Liu</h2>
@@ -70,7 +70,7 @@ author_profile: false
 <h2>Students</h2>
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Xiaoyong Wu.png" alt="Xiaoyong Wu" style="width: 200px; height: 200px;">
+    <img src="/images/Xiaoyong Wu.png" alt="Xiaoyong Wu">
   </div>
   <div style="margin-left: 20px;">
     <h2>Xiaoyong Wu</h2>
@@ -82,7 +82,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Jiatong Wang.png" alt="Jiatong Wang" style="width: 200px; height: 200px;">
+    <img src="/images/Jiatong Wang.png" alt="Jiatong Wang">
   </div>
   <div style="margin-left: 20px;">
     <h2>Jiatong Wang</h2>
@@ -94,7 +94,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Yilin Long.png" alt="Yilin Long" style="width: 200px; height: 200px;">
+    <img src="/images/Yilin Long.png" alt="Yilin Long">
   </div>
   <div style="margin-left: 20px;">
     <h2>Yilin Long</h2>
@@ -106,7 +106,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Liwen Huang.png" alt="Liwen Huang" style="width: 200px; height: 200px;">
+    <img src="/images/Liwen Huang.png" alt="Liwen Huang">
   </div>
   <div style="margin-left: 20px;">
     <h2>Liwen Huang</h2>
@@ -118,7 +118,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Xu Yan.png" alt="Xu Yan" style="width: 200px; height: 200px;">
+    <img src="/images/Xu Yan.png" alt="Xu Yan">
   </div>
   <div style="margin-left: 20px;">
     <h2>Xu Yan</h2>
@@ -130,7 +130,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Yue Luo.png" alt="Yue Luo" height=200px>
+    <img src="/images/Yue Luo.png" alt="Yue Luo">
   </div>
   <div style="margin-left: 20px;">
     <h2>Yue Luo</h2>
@@ -142,10 +142,10 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Qi Dong.png" alt="Qi Dong " style="width: 200px; height: 200px;">
+    <img src="/images/Qi Dong.png" alt="Qi Dong">
   </div>
   <div style="margin-left: 20px;">
-    <h2>Qi Dong </h2>
+    <h2>Qi Dong</h2>
     <p>M.D Student<br>Email: <a href="mailto:dongqi23@mails.ucas.ac.cn">dongqi23@mails.ucas.ac.cn</a></p>
     <p><strong>Research interests:</strong> His research interests lie in using Lidar data to understand relationship between tree health and environment.</p>
   </div><br>
@@ -154,7 +154,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Jiabo Yan.png" alt="Jiabo Yan" style="width: 200px; height: 200px;">
+    <img src="/images/Jiabo Yan.png" alt="Jiabo Yan">
   </div>
   <div style="margin-left: 20px;">
     <h2>Jiabo Yan</h2>
@@ -166,7 +166,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Xuanhao Jiang.png" alt="Xuanhao Jiang" style="width: 200px; height: 200px;">
+    <img src="/images/Xuanhao Jiang.png" alt="Xuanhao Jiang">
   </div>
   <div style="margin-left: 20px;">
     <h2>Xuanhao Jiang</h2>
@@ -178,7 +178,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Haoen Xu.png" alt="Haoen Xu" style="width: 200px; height: 200px;">
+    <img src="/images/Haoen Xu.png" alt="Haoen Xu">
   </div>
   <div style="margin-left: 20px;">
     <h2>Haoen Xu</h2>
@@ -190,10 +190,10 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Zhichao Wei.png" alt="Zhichao Wei " style="width: 200px; height: 200px;">
+    <img src="/images/Zhichao Wei.png" alt="Zhichao Wei">
   </div>
   <div style="margin-left: 20px;">
-    <h2>Zhichao Wei </h2>
+    <h2>Zhichao Wei</h2>
     <p>M.D Student<br>Email: <a href="mailto:weipepino@outlook.com">weipepino@outlook.com</a></p>
     <p><strong>Research interests:</strong> His research interests lie in the investigation of natural grassland plant diseases in several counties of Gansu Province, and the study of seed germination and seedling growth characteristics of common grasses on the Qinghai-Tibet Plateau.</p>
   </div><br>
