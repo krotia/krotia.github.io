@@ -82,7 +82,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Jiatong Wang.png" alt="Jiatong Wang">
+    <img src="/images/Jiatong Wang.png" alt="Jiatong Wang" max-width: 100%; height: auto;>
   </div>
   <div style="margin-left: 20px;">
     <h2>Jiatong Wang</h2>
@@ -106,7 +106,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/Liwen Huang.png" alt="Liwen Huang">
+    <img src="/images/Liwen Huang.png" alt="Liwen Huang" max-width: 100%; height: auto;>
   </div>
   <div style="margin-left: 20px;">
     <h2>Liwen Huang</h2>
